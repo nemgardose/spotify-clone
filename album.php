@@ -18,7 +18,6 @@
         <div class="rightSection">
             <h2><?php echo $album->getTitle();?></h2>
             <span>By <?php echo $artist->getName();?></span>
-
         </div>
     </div>
 
